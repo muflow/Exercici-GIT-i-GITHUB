@@ -1,5 +1,3 @@
 esta es la modifica del fichero txt en el master
 
 este es un cambio relativo al ejercicio del conflicto
-
-hago cambio para crear conflicto
