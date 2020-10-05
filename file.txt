@@ -1,3 +1,10 @@
 esta es la modifica del fichero txt en el master
 
 este es un cambio relativo al ejercicio del conflicto
+<<<<<<< HEAD
+=======
+
+hago cambio para crear conflicto
+
+este cambio me sirve para el conflicto
+>>>>>>> feature/feature_1
